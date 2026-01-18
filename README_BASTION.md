@@ -87,21 +87,6 @@ Suporta:
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-README.md
-bastion/
-   imagens/
-      bastion.png
-      conexao.png
-      link compartilhado .png
-      link.png
-      vm sem IP publicos.png
-      win-conexao.png
-```
-
----
 
 ## 📫 Contato
 
